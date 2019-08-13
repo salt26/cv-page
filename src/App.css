@@ -1,5 +1,14 @@
 .App {
+  background: rgb(122, 28, 72);
+}
+
+.App-head {
   text-align: center;
+  background: rgb(51, 11, 30);
+  color: #fff9de;
+  font-size: 36px;
+  padding: 1rem;
+  font-weight: 600;
 }
 
 .App-logo {
@@ -21,6 +30,25 @@
 
 .App-link {
   color: #61dafb;
+}
+
+.App-body {
+  background: #e9e5d6;
+  color: rgb(51, 11, 30);
+  font-size: 20px;
+  padding: 1rem;
+  font-weight: 300;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.App-eng {
+  color: rgb(190, 46, 116);
+  font-size: 18px;
+}
+
+.H {
+  color: rgb(92, 72, 6);
 }
 
 @keyframes App-logo-spin {
